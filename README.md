@@ -17,8 +17,8 @@ Getting Started
 1. Clone the repository
 
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Directory]
+git clone git@github.com:vinodhalaharvi/zero-trust.git
+cd zero-trust
 ```
 
 2. Build and Start Servers
